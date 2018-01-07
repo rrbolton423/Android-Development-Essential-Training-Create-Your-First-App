@@ -1,0 +1,4 @@
+#Mon Dec 25 23:00:57 CST 2017
+base.0=/Users/romellbolton/Downloads/Ex_Files_AndroidAppDev_CreateFirstApp/Exercise Files/Ch03/03_05/Permissions/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Dec 26 06:24:18 CST 2017
+0.baseType=DIRECTORY
+0.base=/Users/romellbolton/Downloads/Ex_Files_AndroidAppDev_CreateFirstApp/Exercise Files/Ch04/04_02/Layouts/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1
